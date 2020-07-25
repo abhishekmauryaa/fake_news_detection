@@ -65,7 +65,7 @@ Task 4: Implementation of Data Visualization code via graph plots:
 			python Driver.py
 		> Follow the instructions as shown in the command prompt
 
-##########################################################################################
+######################################
 Project Member:
 ----------------
 Abhishek Maurya
